@@ -1,0 +1,15 @@
+C:\proyectos de visual\SumaConBinding\SumaConBinding\bin\Debug\netstandard2.0\SumaConBinding.deps.json
+C:\proyectos de visual\SumaConBinding\SumaConBinding\bin\Debug\netstandard2.0\SumaConBinding.dll
+C:\proyectos de visual\SumaConBinding\SumaConBinding\bin\Debug\netstandard2.0\ref\SumaConBinding.dll
+C:\proyectos de visual\SumaConBinding\SumaConBinding\bin\Debug\netstandard2.0\SumaConBinding.pdb
+C:\proyectos de visual\SumaConBinding\SumaConBinding\obj\Debug\netstandard2.0\SumaConBinding.csprojAssemblyReference.cache
+C:\proyectos de visual\SumaConBinding\SumaConBinding\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\proyectos de visual\SumaConBinding\SumaConBinding\obj\Debug\netstandard2.0\View\MainPage.xaml.g.cs
+C:\proyectos de visual\SumaConBinding\SumaConBinding\obj\Debug\netstandard2.0\View\Resultado.xaml.g.cs
+C:\proyectos de visual\SumaConBinding\SumaConBinding\obj\Debug\netstandard2.0\SumaConBinding.csproj.CoreCompileInputs.cache
+C:\proyectos de visual\SumaConBinding\SumaConBinding\obj\Debug\netstandard2.0\SumaConBinding.AssemblyInfoInputs.cache
+C:\proyectos de visual\SumaConBinding\SumaConBinding\obj\Debug\netstandard2.0\SumaConBinding.AssemblyInfo.cs
+C:\proyectos de visual\SumaConBinding\SumaConBinding\obj\Debug\netstandard2.0\XamlC.stamp
+C:\proyectos de visual\SumaConBinding\SumaConBinding\obj\Debug\netstandard2.0\SumaConBinding.dll
+C:\proyectos de visual\SumaConBinding\SumaConBinding\obj\Debug\netstandard2.0\ref\SumaConBinding.dll
+C:\proyectos de visual\SumaConBinding\SumaConBinding\obj\Debug\netstandard2.0\SumaConBinding.pdb
